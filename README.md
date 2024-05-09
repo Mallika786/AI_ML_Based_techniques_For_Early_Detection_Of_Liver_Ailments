@@ -17,6 +17,7 @@ Due to limitations in the effectiveness of image processing alone, the project t
 - **Naive Bayes**: Naive Bayes classifiers are utilized for probabilistic predictions of liver ailments, assuming independence among features.
 - **Logistic Regression**: Logistic regression models are applied to estimate the probability of liver ailment occurrence based on input features.
 - **Support Vector Machines (SVM)**: SVMs are utilized as binary classifiers to distinguish between healthy and diseased liver conditions. SVMs aim to find the hyperplane that best separates the two classes while maximizing the margin between them.
+  
 These additional machine learning algorithms complement decision trees, naive Bayes, and logistic regression, offering a diverse set of techniques to address the challenges in detecting liver ailments accurately. Each algorithm brings unique strengths and capabilities, contributing to the overall effectiveness of the detection system.
 
 ## Evaluation Metrics
